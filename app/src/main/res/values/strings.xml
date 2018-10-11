@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Booking</string>
+    <string name="team_name">CINEMA</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    //Sign Up Choice Layout
+    <string name="string_0">YOU ARE...</string>
+    <string name="admin_choice">Admin</string>
+    <string name="user_choice">User</string>
+
+    //Sign In Layout
+    <string name="slogan">ABCDEF</string>
+    <string name="string_1">Forgot password?</string>
+    <string name="string_2">Don\'t have an account?</string>
+    <string name="string_3">Sign Up</string>
+
+    //Sign Up Layout
+    <string name="user_signup">User Sign Up</string>
+    <string name="admin_signup">Admin Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="id_work">Work ID</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="string_4">Or sign up with...</string>
+    <string name="string_5">Already have an account?</string>
+    <string name="string_6">Sign In</string>
+
+    //Button
+    <string name="btn_create">CREATE ACCOUNT</string>
+    <string name="btn_sign_in">SIGN IN</string>
+</resources>
